@@ -1,0 +1,87 @@
+.box-12_1{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+.box-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:rgb(75, 63, 63);
+    width:8%;
+    height:35px;
+}
+.box-3_4{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+.box-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:35px;
+    background:rgb(75, 63, 63);
+    text-align: center;
+    width:33%
+}
+.box-2_4-8{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+.box-2_6{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+.box-6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:35px;
+    background:rgb(75, 63, 63);
+    text-align: center;
+    width:49.5%
+}
+.box-2-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:35px;
+    background:rgb(75, 63, 63);
+    text-align: center;
+    width:33%
+}
+.box-2-8{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:35px;
+    background:rgb(75, 63, 63);
+    text-align: center;
+    width:66%
+}
+.box-1_12{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+.box-12{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:35px;
+    background:rgb(75, 63, 63);
+    text-align: center;
+    width:100%
+}
+.bootrap{
+    display:flex;
+    flex-direction: column;
+}
