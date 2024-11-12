@@ -47,7 +47,7 @@ body{
     color:white;
 }
 .midde-1{
-    padding:64px 76px 64px 165px;
+    padding:64px 76px 32px 165px;
     display:flex;
     flex-direction: row;
     justify-content: space-between;
@@ -104,4 +104,26 @@ body{
 .img-watch{
     padding-right: 8px;
     margin-left: 5px;
+}
+.landing-2{
+    padding:0 165px 64px 165px;
+}
+.header-2{
+    display:flex;
+    justify-content: space-between;
+    padding-bottom: 0 0 165px 64px
+}
+.midde2-left p{
+    font-size: 44px;
+    color:rgba(25, 24, 37, 1);
+    line-height: 52.8px;
+}
+.midde-2{
+    display:flex;
+    justify-content: space-between;
+}
+.midde2-left{
+    display:flex;
+    align-items: center;
+    margin-top: -75px;
 }
